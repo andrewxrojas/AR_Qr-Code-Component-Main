@@ -33,7 +33,7 @@
 
 ### What I learned
 
-This project served as a crash course for me as I have not used HTML or CSS for a year and I would like to improve my skill set as a designer. I will say that when I view the live site link it does not display the CSS format that is linked to the index.html. I am unsure if this is normal with github.
+This project served as a crash course for me as I have not used HTML or CSS for a year and I would like to improve my skill set as a designer.
 
 ### Continued development
 
